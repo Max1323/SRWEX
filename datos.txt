@@ -1,0 +1,119 @@
+YYCHR
+yychr Now printing 0011B100
+yychr titulos de batalla 001C6000
+yychr fuente principal 001061BC
+yychr otra fuente 001E7000 (Sirve para Alguno gráficos)
+yychr textos gráficos 001E6700
+
+Titulos
+Texto Arriba F8
+Texto Abajo 0C
+
+001FB44C Punteros de titulos (Todo por la causa y Princesa cautiva) Empieza antes del caracter.
+
+***Primer byte es el largo de los caracter***
+001FB50B THE LANGRAN RIOTS titulo
+001FB58D Intercepcion en Immortal
+001FC3CE TRAINING no
+001FC481 TRAINING vale c462 > 62C4
+001FB661 Templo Solatis
+001FB6E8 Coral Canyon Parte 2
+001FB78E Todo por la Causa
+001FB7C7 Princesa Cautiva
+001FB803 Regreso a la Capital
+001FB84C Kirkus's Ambition
+001FB88D Falsa Coronación
+001FB8CA Escape de Telius
+001FB903 Batalla Decisiva en la Capital Real (03B9)
+001FB980 Sombra de Intriga (80B9)
+001FB9C1 Underground Death Match (C1B9)-> Duelo a Muerte|Bajo Tierra (E0CC)
+001FBA16 Resurrection of the Evil God -> 001FCD3A 1A-Resurrección del Dios Malvado
+001FBA77 Feil's Darkness -> 001FB9C3 0f Oscuridad de Feil
+001FBAB0 Partida
+001FBACD The Final Battle > La Batalla Final
+001FBB06 Surging Ambition > Surge la Ambición
+001FBB43 Decisive Battle Against Duraxyll
+
+Lüne
+001FBC01 Reunion
+001FBC1E Battle in Danque -> 001FCE51
+001FBC57 Individual Justice -> 001FBC20
+001FBC9C Valley of Spores -> 001FBC6A
+001FBCD5 Surprise Attack -> 001FBCA4
+001FBD12 Counterattack -> 001FBCDE
+001FBD47 The Shadow of Volkruss -> 001FBD10
+001FBD94 Prince Telius -> 001FBD5A
+001FBDC5 Prisoner Rescue -> 001FBD93
+001FBE2F Luozorl, Behind the Scenes 
+001FBE8C The Black Tri-Stars
+001FBED1 Father and Son
+001FBF02 Kirkus's Eyes
+001FBF33 Protect the Temple of Zeb!
+001FBF8C Stedonius's Pursuit -> 001FCE90
+001FBFD5 A Defeated General -> 001FBF8D
+001FC016 Eulid, the Super-Elemental -> 001FBFCF
+001FC077 Zashford's Struggle -> 001FC02F
+001FC0C0 Encounter -> 001FC077
+001FC0E5 The Cursed One -> 001FC09F
+
+Shu
+001FC11E Shu Awakens > 001FCE20 Shu Despierta
+001FC147 The Time Etranger -> 001FC120
+001FC184 Nuet Sea -> 001FC160
+001FC1A1 Vagonia's Mercenaries-> 001FC180
+001FC1F2 Lüne Zoldark -> 001FC1D4
+001FC21F The Vengeful Knight -> 001FC204
+001FC264 Monica's Love -> 001FC250
+001FC295 Confronting Cybuster -> 001FC28C
+001FC2E2 Seizure of the Nols -> 001FC2D8
+001FC323 Whispers in the Dark -> 001FCEEC
+001FC368 Telius's Resolution -> 001FC314
+001FC3B1 Special Training -> 001FC360
+001FC3EE Jihad -> 001FC3B80
+001FC403 Seal -> 001FC3D0
+001FC414 Release of the Evil God -> 001FC3E8
+001FC461 Treason -> 001FC438
+
+------
+offset 00107E80 tamaño de la fuente Parte 2
+offset 00107E6B última añadido P de 3 tiles
+
+offset 001FA3B1 EPISODE valido 1 - 9
+offset 001FA3CE EPISODE valido 10 en adelante
+
+offset 001F6F88 Lugares Ejemplo Bosque, costa etc. Ver  version Italiano en el mismo lugar
+
+offset 001EE191 HP Lv HP Lv?
+
+Graficos 
+empieza C0 00 Empieza con Du (Dunbine)
+C1 00 :ir 001E0A00
+001E2000 c2 00 Hum
+001E3000 c3 00 Pl
+001E4000 c4 00 g 
+001E5000 c5 00 lin
+001E6000 c6 00 Pu
+
+windhex
+Capitulo (Intermisión)
+001F71F3 Masaki
+001F7208 Lüne
+001F721B Shu
+
+Espiritu
+001F72F6 Guts OK
+001F72FD Guts 2 C0E1 C665 C666 C667
+001F7306 Supply OK
+001F730F Friendship Ok
+001F731C Trust 
+001F7323 Love C66E 6F c02a OK
+001F732A Rage Ok
+001F7331 Focus OK
+001F733A Accelerate OK
+001F7347 Hot Blood OK Fervor
+001F7354 Lock On Ok Apuntar
+001F735F Flash OK
+001F7366 Lucky OK Suerte
+001F736F Awaken OK
+001F7378 Coerce OK Forzar
+001F7381 Mercy OK Piedad

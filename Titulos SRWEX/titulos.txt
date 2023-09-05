@@ -1,0 +1,6 @@
+Tamaño de los caracteres de los títulos
+A-Z, a-z, á-ú = 8
+f = 7
+i, j, l, !, í = 4
+r, t = 6 poner 5
+m, w, w = 9
