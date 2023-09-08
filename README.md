@@ -1,5 +1,6 @@
 # SRWEX
 Datos de Super Robot Wars EX (Super Nintendo)
+Estos datos fueron recopilados a medida que avanzaba la traducción del juego.
 
 ## Carpetas
 * Tabla (Son las tablas en Español)
@@ -25,3 +26,8 @@ A principio, lo tenia que hacer manualmente, calculando solo el ancho de dicho c
 ### Como se usa
 * `PRIMERO`: Lo único que hace este programa es darte los valores del ancho de los caracteres para acomodarlos uno al lado del otro. O sea, que tendrás que usar un editor hex para cambiar los valores de las posiciones de ancho.
 
+# Créditos
+Al grupo de Aeon Genesis que realizó la traducción: Gideon Zhi, TheMajinZenki, Tyria, Miles Vaugn, SSJCyberSonic, Optiroc y Mugi.
+A Wolfgare, traductor del juego al italiano, que gracias a su ayuda, se consiguio traducir los gráficos de los comandos.
+A Commissar Bear por realizar los gameplays de Super Robot Wars EX de príncipio a fin. Gracias a sus vídeos conseguí ver todos los textos para luego traducirlos.
+A la wiki Akurasu que tiene toda la información de Super Robot Wars.
